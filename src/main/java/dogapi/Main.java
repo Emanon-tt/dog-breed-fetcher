@@ -30,8 +30,5 @@ public class Main {
         } catch (BreedFetcher.BreedNotFoundException e) {
             return 0;
         }
-
-        // TODO Task 3 implement this code so that it is entirely consistent with its provided documentation.
-
     }
 }
